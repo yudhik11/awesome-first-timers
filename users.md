@@ -81,6 +81,13 @@
   GitHub: [john2ksonn](https://github.com/john2ksonn)  
   Facebook:  
 
+- Name: Sachin Chandani
+  Place: Hyderabad, India  
+  Bio:  I am an enthusiast for technology and i love coding.
+  GitHub: [Sachin Chandani](https://github.com/sachin-cahndani)  
+  Facebook:
+
+
 - Name: Rahul Bishnoi
   Place: Hyderabad, India  
   Bio:  I am an enthusiast for technology and i love Playing CSGO.  
